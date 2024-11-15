@@ -1,4 +1,5 @@
-Subset of a set:
+**Subset of a set**
+
 If every element of a set A is also an element of set B i.e. ∀x(x ∈ A -> x ∈ B), then A is called subset of B and is written as A ⊆ B. B is called the superset of A.
 
 Ex:

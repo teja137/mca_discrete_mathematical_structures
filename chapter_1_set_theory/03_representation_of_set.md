@@ -1,4 +1,4 @@
-Representation of set
+**Representation of set**
 
 Tabular/Roster representation of a set:
 Listing its members in a set is called Tabular/Roster representation of a set.

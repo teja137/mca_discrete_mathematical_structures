@@ -1,4 +1,4 @@
-What is a set?
+**What is a set?**
 
 - Sets are the fundamental discrete structures on which all the discrete structures are built
 - Sets are used to group objects together

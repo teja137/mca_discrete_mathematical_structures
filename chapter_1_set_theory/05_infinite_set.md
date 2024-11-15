@@ -1,4 +1,5 @@
-Infinite set:
+**Infinite set**
+
 If a set contains infinite number of elements is called infinite set.
 i.e. if the counting of different elements of the set does not come to an end.
 

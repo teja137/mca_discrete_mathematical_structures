@@ -1,3 +1,5 @@
+**Cardinality of a set**
+
 Cardinality of a set means it is the number of elements present in a Set, denoted like |A|.
 
 ex:
