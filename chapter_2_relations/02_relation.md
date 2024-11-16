@@ -178,13 +178,13 @@ R1: (a,b) iff(if and only if) (a+b) is even over the set of integers.
 
 A relation R ona set A with cartesian product AxA is said to be partial order, if it is
 
-1. Reflexive
-2. Anti - Symmetric
+1. Reflexive 
+2. Anti - Symmetric // R = {(1,1),(2,1)} and symmetric would look like R = {(1,1),(2,1),(1,2)}
 3. Transitive
 
-**Partial ordering ser (Poset)**
+**Partial ordering set (POSET)**
 
-A set A with partial ordering relation R defined on A is called a POSET and is denoted by [A,R]
+A set A with partial ordering relation R defined on A is called a POSET and is denoted by [A;R]
 
 e.g.:
 
